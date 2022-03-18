@@ -57,7 +57,7 @@ bool isValid(string s)
 
 // int main()
 // {
-
+// 
 //     string s = "[[]{}]()";
 //     bool check = isValid(s);
 //     if (check)

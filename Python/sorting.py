@@ -102,14 +102,3 @@ def quickSort(array, low, high):
     # recursive call on the right of pivot
     quickSort(array, pi + 1, high)
 
-
-data = [8, 7, 2, 1, 0, 9, 6]
-print("Unsorted Array")
-print(data)
-
-size = len(data)
-
-quickSort(data, 0, size - 1)
-
-print('Sorted Array in Ascending Order:')
-print(data)

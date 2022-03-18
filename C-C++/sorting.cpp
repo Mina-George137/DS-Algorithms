@@ -229,7 +229,7 @@ void quickSort(int array[], int low, int high)
 //     insertionSort(data2, size);
 //     cout << "INSERION SORT array in Acsending Order:\n";
 //     printArray(data2, size);
-
+// 
 //     int data3[5] = {20, 1002, 10, 15, 2};
 //     size = sizeof(data3) / sizeof(data3[0]);
 //     bubbleSort(data3, size);
