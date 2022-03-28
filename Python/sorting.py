@@ -1,3 +1,4 @@
+
 def selection_sort(a):
    sortedFlag = False #To avoid sorting if it is already sorted
    for i in range(len(a)-1):
